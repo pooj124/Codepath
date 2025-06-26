@@ -12,6 +12,7 @@ treasure_map2 = {
 }
 
 def total_treasure(treasure_map):
+    
 
 
 
